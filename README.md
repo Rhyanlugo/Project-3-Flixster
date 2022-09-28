@@ -28,6 +28,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 Here's a walkthrough of implemented user stories:
+<img src='https://i.imgur.com/vDYiPOV.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 [Walkthrough](https://i.imgur.com/vDYiPOV.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
